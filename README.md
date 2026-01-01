@@ -1,5 +1,17 @@
-# FM2S - GitHub e ChatGPt
+## Hi, I'm Natalia 👋
 
-## Introdução
+Data & BI Analyst with an MBA in Data Science. I work with data analysis, dashboards, and process automation, turning business questions into clear metrics and actionable insights.
 
-Este repositório é destinado para o processo de aprendizagem sobre estas duas ferramentas.
+### What I do
+- Data Analysis & Business Intelligence (Power BI)
+- Python for data analysis (Pandas, NumPy)
+- Data storytelling and documentation of metrics/KPIs
+- Process automation (Power Automate / Power Apps)
+
+### Featured project
+- **Water Quality Clustering (Python)** — EDA + K-Means + PCA
+
+### Languages
+- Portuguese: Native
+- English: B2
+- Spanish: B1
