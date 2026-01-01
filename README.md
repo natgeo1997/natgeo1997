@@ -1,6 +1,6 @@
 ## Hi, I'm Natalia 👋
 
-Data & BI Analyst with an MBA in Data Science. I work with data analysis, dashboards, and process automation, turning business questions into clear metrics and actionable insights.
+Data & BI Analyst with an MBA in Data Science. I work with data analysis and business intelligence, developing dashboards and analyses that turn business questions into clear metrics and actionable insights.
 
 ### What I do
 - Data Analysis & Business Intelligence (Power BI)
