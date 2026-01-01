@@ -9,7 +9,7 @@ Data & BI Analyst with an MBA in Data Science. I work with data analysis and bus
 - Process automation (Power Automate / Power Apps)
 
 ### Featured project
-- **Water Quality Clustering (Python)** — EDA + K-Means + PCA
+- 🌊 [Water Quality Clustering (Python)](https://github.com/natgeo1997/water-quality-clustering) — EDA + K-Means + PCA
 
 ### Languages
 - Portuguese: Native
