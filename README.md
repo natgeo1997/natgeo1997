@@ -1,4 +1,4 @@
-## Hi, I'm Natália 👋
+## Hi, I'm Natália!
 
 I build practical solutions at the intersection of **AI, process improvement, data analytics and digital transformation**.
 
