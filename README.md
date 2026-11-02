@@ -7,7 +7,7 @@ My background in operations, quality and process governance helps me identify ev
 ### Featured projects
 
 - **[DocManager](https://github.com/natgeo1997/docmanager)** — A document management prototype built with **React, Python, FastAPI and OpenAI API**. Includes document editing, visual version comparison and AI-assisted change history with human review.
-- **[LogiOps AI](projects/logiops-ai.md)** — Streamlit and Gemini prototype for AI-assisted logistics incident triage, P1–P4 prioritization and structured action recommendations. *Case study; source code not yet available.*
+- **[LogiOps AI](https://github.com/natgeo1997/logiops-ai)** — AI-assisted logistics incident analysis built with **Python, Streamlit, Gemini and Pydantic**. Features P1–P4 prioritization, structured incident assessments, action recommendations, exportable results and a video demo.
 - **[Water Quality Clustering](https://github.com/natgeo1997/water-quality-clustering)** — Exploratory analysis, clustering with K-Means and PCA.
 - **[SQL & Python Sales Analysis](https://github.com/natgeo1997/sql-python-sales-analysis)** — Business data analysis combining SQL and Python.
 
