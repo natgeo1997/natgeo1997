@@ -1,4 +1,4 @@
-# Hi, I'm Natália
+# Hi, I'm Natália Santos
 
 ### Practical AI · Process improvement · Digital transformation
 
@@ -64,6 +64,10 @@ Both AI prototypes include automated tests and GitHub Actions. Small synthetic e
 **Development and data:** Python, SQL, React, JavaScript, FastAPI and Streamlit  
 **Business tools:** Power BI, Power Automate and Power Apps  
 **Process focus:** Quality, operations, process indicators and continuous improvement
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/natalia-santos-1576953a2/) · [nbezerra.engineer@gmail.com](mailto:nbezerra.engineer@gmail.com)
 
 ## Languages
 
