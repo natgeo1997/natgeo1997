@@ -6,7 +6,7 @@ I build prototypes that connect AI and data with everyday operational challenges
 
 My interests include document review, operational decision support, analytics and workflow automation.
 
-[DocManager](https://github.com/natgeo1997/docmanager) · [LogiOps AI](https://github.com/natgeo1997/logiops-ai) · [Data projects](#data-projects)
+[Try the interactive demos](https://natalia-practical-ai-demos.natygeo.chatgpt.site) · [DocManager](https://github.com/natgeo1997/docmanager) · [LogiOps AI](https://github.com/natgeo1997/logiops-ai) · [Data projects](#data-projects)
 
 ## Featured projects
 
@@ -25,7 +25,9 @@ A web prototype that brings document editing, visual version comparison and sugg
 
 *Screenshot from the project repository. The prototype stores demonstration documents and drafts locally in the browser; publishing is simulated.*
 
-[Explore the code and screenshots →](https://github.com/natgeo1997/docmanager)
+[Try the browser demo →](https://natalia-practical-ai-demos.natygeo.chatgpt.site/docmanager/index.html) · [Explore the code and screenshots](https://github.com/natgeo1997/docmanager)
+
+*The hosted demo runs locally in the browser without AI calls. The full application integrates OpenAI.*
 
 ### LogiOps AI
 **AI-assisted logistics incident analysis**
@@ -41,7 +43,13 @@ A Streamlit prototype that turns incident reports into structured assessments fo
 
 *Demonstration prototype. Recommendations require human review; it does not execute actions or send messages automatically.*
 
-[Explore the code and setup →](https://github.com/natgeo1997/logiops-ai) · [Video demonstration](https://github.com/natgeo1997/logiops-ai/blob/main/logiops-ai-linkedin.mp4)
+[Try the example walkthrough →](https://natalia-practical-ai-demos.natygeo.chatgpt.site/logiops/index.html) · [Explore the code and setup](https://github.com/natgeo1997/logiops-ai) · [Video demonstration](https://github.com/natgeo1997/logiops-ai/blob/main/logiops-ai-linkedin.mp4)
+
+*The browser walkthrough uses a fixed fictional example; it does not call Gemini or analyze new reports.*
+
+## Evaluation and verification
+
+Both AI prototypes include automated tests and GitHub Actions. Small synthetic evaluation suites document what is measured and what requires human review: [DocManager summary evaluation](https://github.com/natgeo1997/docmanager/tree/main/evaluation) · [LogiOps priority evaluation](https://github.com/natgeo1997/logiops-ai/tree/main/evaluation). These fixtures do not establish production accuracy or business impact.
 
 ## Data projects
 
