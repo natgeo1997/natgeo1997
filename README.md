@@ -1,74 +1,118 @@
-# Hi, I'm Natália Santos
+<div align="center">
 
-### Practical AI · Process improvement · Digital transformation
+<img src="./assets/portfolio-banner.svg" alt="Natália Santos — Applied AI, Logistics, Quality and Process Excellence" width="100%">
 
-I build prototypes that connect AI and data with everyday operational challenges. My background in operations, quality and process governance shapes how I approach technology: understand the workflow, make information easier to use, and keep people involved in decisions.
+<img src="https://avatars.githubusercontent.com/u/201663296?v=4" alt="Natália Santos" width="150" style="border-radius:50%">
 
-My interests include document review, operational decision support, analytics and workflow automation.
+# Natália Santos
+### Applied AI · Process Excellence · Digital Transformation
 
-[Try the interactive demos](https://natalia-practical-ai-demos.natygeo.chatgpt.site) · [DocManager](https://github.com/natgeo1997/docmanager) · [LogiOps AI](https://github.com/natgeo1997/logiops-ai) · [Data projects](#data-projects)
+**Turning complex operational challenges into practical, human-centered intelligent solutions.**
 
-## Featured projects
+[![Portfolio demos](https://img.shields.io/badge/EXPLORE-LIVE%20DEMOS-9D70F5?style=for-the-badge)](https://natalia-practical-ai-demos.natygeo.chatgpt.site)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-272B3D?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/natalia-santos-1576953a2/)
+[![Email](https://img.shields.io/badge/CONTACT-EMAIL-272B3D?style=for-the-badge&logo=gmail)](mailto:nbezerra.engineer@gmail.com)
 
-### DocManager
-**AI-assisted document review and version comparison**
+---
 
-A web prototype that brings document editing, visual version comparison and suggested change-history entries into one workflow.
+</div>
 
-- Compare published sample content with a draft and highlight additions and removals.
-- Generate a change summary through the OpenAI API.
-- Review and edit the AI suggestion before adding it to the document's history table.
+## ✦ About me
 
-**Built with:** React, JavaScript, Vite, Python, FastAPI, OpenAI API and CSS.
+I combine experience in **logistics, dangerous goods, quality and process governance** with **applied AI, analytics and automation**. I design practical solutions that simplify workflows, support decisions and keep human oversight where it matters.
 
-![DocManager editor showing a suggested change-history entry for human review](https://github.com/natgeo1997/docmanager/raw/refs/heads/main/docs%202/images/historico-ia.png)
+> **My focus:** intelligent operations, reliable workflows, continuous improvement and measurable business value.
 
-*Screenshot from the project repository. The prototype stores demonstration documents and drafts locally in the browser; publishing is simulated.*
+## ✦ Featured projects
 
-[Try the browser demo →](https://natalia-practical-ai-demos.natygeo.chatgpt.site/docmanager/index.html) · [Explore the code and screenshots](https://github.com/natgeo1997/docmanager)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*The hosted demo runs locally in the browser without AI calls. The full application integrates OpenAI.*
+### [01 · DocManager](https://github.com/natgeo1997/docmanager)
+**AI-assisted document management**
 
-### LogiOps AI
-**AI-assisted logistics incident analysis**
+<img src="https://github.com/natgeo1997/docmanager/raw/refs/heads/main/docs%202/images/historico-ia.png" alt="DocManager interface" width="100%">
 
-A Streamlit prototype that turns incident reports into structured assessments for a logistics professional to review.
+Document editing, version comparison and AI-assisted change summaries with human review.
 
-- Suggest a priority level, operational impact, possible causes, recommended actions and preventive actions.
-- Generate a draft communication for human review.
-- Validate structured Gemini responses with Pydantic and export analysis as JSON or the draft message as TXT.
-- Explore a predefined fictional example without an API key, or configure Gemini to analyze a report.
+**Stack:** React · JavaScript · FastAPI · Python · OpenAI API
 
-**Built with:** Python, Streamlit, Gemini API (`google-genai`), Pydantic and CSS.
+[Explore repository](https://github.com/natgeo1997/docmanager) · [Try demo](https://natalia-practical-ai-demos.natygeo.chatgpt.site/docmanager/index.html)
 
-*Demonstration prototype. Recommendations require human review; it does not execute actions or send messages automatically.*
+</td>
+<td width="50%" valign="top">
 
-[Try the example walkthrough →](https://natalia-practical-ai-demos.natygeo.chatgpt.site/logiops/index.html) · [Explore the code and setup](https://github.com/natgeo1997/logiops-ai) · [Video demonstration](https://github.com/natgeo1997/logiops-ai/blob/main/logiops-ai-linkedin.mp4)
+### [02 · LogiOps AI](https://github.com/natgeo1997/logiops-ai)
+**Intelligent logistics incident assessment**
 
-*The browser walkthrough uses a fixed fictional example; it does not call Gemini or analyze new reports.*
+AI-assisted structured incident analysis, priorities, possible causes and recommended actions for professional review.
 
-## Evaluation and verification
+**Stack:** Python · Streamlit · Gemini API · Pydantic
 
-Both AI prototypes include automated tests and GitHub Actions. Small synthetic evaluation suites document what is measured and what requires human review: [DocManager summary evaluation](https://github.com/natgeo1997/docmanager/tree/main/evaluation) · [LogiOps priority evaluation](https://github.com/natgeo1997/logiops-ai/tree/main/evaluation). These fixtures do not establish production accuracy or business impact.
+[Explore repository](https://github.com/natgeo1997/logiops-ai) · [Try walkthrough](https://natalia-practical-ai-demos.natygeo.chatgpt.site/logiops/index.html) · [Watch demo](https://github.com/natgeo1997/logiops-ai/blob/main/logiops-ai-linkedin.mp4)
 
-## Data projects
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Focus | Tools |
-| --- | --- | --- |
-| [Water Quality Clustering](https://github.com/natgeo1997/water-quality-clustering) | Explore water-quality indicators through data cleaning, scaling, K-Means clustering and PCA visualization. | Python, pandas, NumPy, scikit-learn, Matplotlib and Seaborn |
-| [SQL & Python Sales Analysis](https://github.com/natgeo1997/sql-python-sales-analysis) | Explore sales by product category using SQL aggregation and Python analysis and visualization. | SQL, SQLite, Python, pandas and Matplotlib |
+### [03 · Water Quality Clustering](https://github.com/natgeo1997/water-quality-clustering)
+**Machine learning and exploratory analytics**
 
-## Skills and interests
+Cleaning, scaling, K-Means clustering and PCA visualization of water-quality indicators.
 
-**Applied AI:** API integration, structured responses and human review  
-**Development and data:** Python, SQL, React, JavaScript, FastAPI and Streamlit  
-**Business tools:** Power BI, Power Automate and Power Apps  
-**Process focus:** Quality, operations, process indicators and continuous improvement
+**Stack:** Python · pandas · NumPy · scikit-learn · Matplotlib
 
-## Contact
+[Explore repository](https://github.com/natgeo1997/water-quality-clustering)
 
-[LinkedIn](https://www.linkedin.com/in/natalia-santos-1576953a2/) · [nbezerra.engineer@gmail.com](mailto:nbezerra.engineer@gmail.com)
+</td>
+<td width="50%" valign="top">
 
-## Languages
+### [04 · SQL & Python Sales Analysis](https://github.com/natgeo1997/sql-python-sales-analysis)
+**Business analytics and reporting**
 
-Portuguese (native) · English (advanced) · Spanish (learning)
+Sales analysis by product category using SQL queries, Python processing and visual reporting.
+
+**Stack:** SQL · SQLite · Python · pandas · Matplotlib
+
+[Explore repository](https://github.com/natgeo1997/sql-python-sales-analysis)
+
+</td>
+</tr>
+</table>
+
+## ✦ Technology & capabilities
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-202536?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-202536?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-202536?style=for-the-badge&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-202536?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-202536?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-202536?style=for-the-badge&logo=powerbi&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-202536?style=for-the-badge&logo=powerautomate&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-202536?style=for-the-badge&logo=n8n&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-202536?style=for-the-badge&logo=supabase&logoColor=white)
+![APIs](https://img.shields.io/badge/API%20Integration-202536?style=for-the-badge)
+
+</div>
+
+| Applied AI | Data & engineering | Process excellence |
+| :--- | :--- | :--- |
+| LLM integration, structured outputs, human-in-the-loop | Python, SQL, dashboards, APIs, automation | Quality, governance, logistics, continuous improvement |
+
+## ✦ Engineering mindset
+
+Both featured AI prototypes include **automated tests and GitHub Actions**. Their small synthetic evaluation suites help document behavior and limitations; they do **not** establish production accuracy or business impact.
+
+[DocManager evaluation](https://github.com/natgeo1997/docmanager/tree/main/evaluation) · [LogiOps AI evaluation](https://github.com/natgeo1997/logiops-ai/tree/main/evaluation)
+
+## ✦ Let's connect
+
+I enjoy building at the intersection of **operations, data and intelligent systems**.
+
+**[LinkedIn](https://www.linkedin.com/in/natalia-santos-1576953a2/)** · **[Email](mailto:nbezerra.engineer@gmail.com)** · **[Interactive demos](https://natalia-practical-ai-demos.natygeo.chatgpt.site)**
+
+<sub>Portuguese (native) · English (advanced) · Spanish (learning)</sub>
