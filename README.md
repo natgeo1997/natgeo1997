@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/portfolio-banner.svg" alt="Natália Santos — Applied AI, Logistics, Quality and Process Excellence" width="100%">
+
+<img src="https://avatars.githubusercontent.com/u/201663296?v=4" alt="Natália Santos" width="150" style="border-radius:50%">
+
 # Natália Santos
 ### Applied AI · Process Excellence · Digital Transformation
 
