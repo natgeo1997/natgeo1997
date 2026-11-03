@@ -1,6 +1,6 @@
 <div align="center">
 
-# Natália Santana
+# Natália Santos
 ### Applied AI · Process Excellence · Digital Transformation
 
 **Turning complex operational challenges into practical, human-centered intelligent solutions.**
